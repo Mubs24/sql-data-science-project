@@ -65,8 +65,9 @@ Completed through Coursera:
 ---
 
 ## 💬 Want to collaborate?
+https://www.linkedin.com/in/mubarak-ssesimba-43b139248/
+https://github.com/Mubs24
 
-Feel free to fork the repo, try the queries yourself, or connect with me on LinkedIn!
-
+Feel free to fork the repo, try it out, or message me if you want to collaborate!
 ---
 
